@@ -33,3 +33,7 @@ a = np.array([[1,2,3],[4,5,6]])
 print(a)
 print(a.flatten())
 
+# There are lot of funtions for changing shapes of array by flatten, ravel, rearranging the elements rot90, flip, fliprl, flipud. They are actullay comes under advance numpy
+
+
+
